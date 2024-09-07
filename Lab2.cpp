@@ -4,7 +4,6 @@
 // from square feet to acres. Create a constant named ACRE_FACTOR to express 
 // the conversion factor. Format the output to limit the number of digits after 
 // the decimal point to two digits.
-// Place your solution code here for Lab2
 
 #include <iostream>
 
@@ -12,7 +11,8 @@ using namespace std;
 
 int main(){
     int sqFeet; // holds the number of square feet entered by the user
-    float acres; // holds the conversion result of square feet to acres
+    double acres; // holds the conversion result of square feet to acres
+    // Place your solution code here for Lab2
 
     return 0;
 }
